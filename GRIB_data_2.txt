@@ -1,0 +1,112 @@
+SECTION 0
+	message length:		4538
+	section length:		8
+
+SECTION 1
+	PDS length:			28
+	GDS:	YES  |  BMS:	NO
+	date:				10.3.2015	0:0
+	decimal scale:		1
+	indicator:			100
+	pressure (hPa):		400
+
+SECTION 2
+	GDS length:	178
+	startLatitude:		NORTH 0°
+	startLongitude:		WEST 30°
+	endLatitude:		NORTH 90°
+	endLongitude:		EAST 60°
+	number of rows:		73
+	increment N-S:		1.25
+	val 29-32:			0 0 0
+	val for 73 points: 
+		row 1:			73
+		row 2:			73
+		row 3:			73
+		row 4:			73
+		row 5:			73
+		row 6:			73
+		row 7:			73
+		row 8:			73
+		row 9:			72
+		row 10:			72
+		row 11:			72
+		row 12:			71
+		row 13:			71
+		row 14:			71
+		row 15:			70
+		row 16:			70
+		row 17:			69
+		row 18:			69
+		row 19:			68
+		row 20:			67
+		row 21:			67
+		row 22:			66
+		row 23:			65
+		row 24:			65
+		row 25:			64
+		row 26:			63
+		row 27:			62
+		row 28:			61
+		row 29:			60
+		row 30:			60
+		row 31:			59
+		row 32:			58
+		row 33:			57
+		row 34:			56
+		row 35:			55
+		row 36:			54
+		row 37:			52
+		row 38:			51
+		row 39:			50
+		row 40:			49
+		row 41:			48
+		row 42:			47
+		row 43:			45
+		row 44:			44
+		row 45:			43
+		row 46:			42
+		row 47:			40
+		row 48:			39
+		row 49:			38
+		row 50:			36
+		row 51:			35
+		row 52:			33
+		row 53:			32
+		row 54:			30
+		row 55:			29
+		row 56:			28
+		row 57:			26
+		row 58:			25
+		row 59:			23
+		row 60:			22
+		row 61:			20
+		row 62:			19
+		row 63:			17
+		row 64:			16
+		row 65:			14
+		row 66:			12
+		row 67:			11
+		row 68:			9
+		row 69:			8
+		row 70:			6
+		row 71:			5
+		row 72:			3
+		row 73:			2
+
+SECTION 4
+	BDS length:			4320
+	binary scale:		0
+	reference value:	-126
+	bits per value:		10
+	Val from 12-15 byte:	 
+						198		208		211		
+
+SECTION 5
+	length:				4
+
+TEMPERATURES
+	Temperature 1:	7.2 °C
+	Temperature 2:	8.2 °C
+	Temperature 3:	8.5 °C
+
