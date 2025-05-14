@@ -1,0 +1,1 @@
+C++ decoder for GRIB1 messages based on WMO FM 92 GRIB Edition 1, utilizing template 388. This decoder is designed to parse and extract meteorological and oceanographic data from GRIB1-formatted binary files, commonly used in numerical weather prediction and climate models.
